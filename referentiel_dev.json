@@ -1,0 +1,28 @@
+{
+    "environment" : "DEV",
+    "organisation" : [
+        {
+            "name" : "orga1",
+            "owner" : "sylvain",
+            "users" : [
+                "Batman",
+                "Spiderman",
+                "Zidane",
+                "Franky Vincent",
+                "Cartman",
+                "George Abitbol"
+            ]
+        },
+        {
+            "name" : "orga2",
+            "owner" : "johann",
+            "users" : [
+                "Aquaman",
+                "Deadpool",
+                "noname42",
+                "Jean Louis",
+                "George Abitbol"
+            ]
+        }
+    ]
+}
