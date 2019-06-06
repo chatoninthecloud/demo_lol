@@ -1,0 +1,22 @@
+{
+    "environment" : "DEV",
+    "organisation" : [
+        {
+            "name" : "orga1",
+            "owner" : "sylvain",
+            "users" : [
+                "Franky Vincent",
+                "Cartman",
+                "George Abitbol"
+            ]
+        },
+        {
+            "name" : "orga2",
+            "owner" : "johann",
+            "users" : [
+                "Aquaman",
+                "Deadpool"
+            ]
+        }
+    ]
+}
