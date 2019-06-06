@@ -1,6 +1,6 @@
 {
     "environment" : "DEV",
-    "organisation" : [
+    "organisations" : [
         {
             "name" : "orga1",
             "owner" : "sylvain",
