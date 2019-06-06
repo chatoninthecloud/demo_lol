@@ -1,0 +1,21 @@
+{
+    "environment" : "DEV",
+    "organisation" : [
+        {
+            "name" : "orga1",
+            "owner" : "sylvain",
+            "users" : [
+                "Batman",
+                "Spiderman"
+            ]
+        },
+        {
+            "name" : "orga2",
+            "owner" : "johann",
+            "users" : [
+                "Aquaman",
+                "Deadpool"
+            ]
+        }
+    ]
+}
